@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, initial-scale=1.0">
+        <title>RESUME</title>
+    <style type="text/css">
+    P{
+
+        padding:20px;
+        height:400px;
+        width:400px;
+        margin-top:30px;
+        margin-left:30px;
+
+        background: rgb(11, 75, 75)  center no-repeat;
+        background-color: rgb(35, 192, 192);
+        border:black;
+        border-left-style:solid;
+        border-right-style:solid;
+        border-bottom-style:dashed;
+        border-top-style:dashed;
+        border-radius:10px;
+
+        text-transform:capitalize;
+        text-align:justify;
+        line-height:1.5;
+        color:white;
+
+        font-family:'Comic Sans MS', 'serif','bold';
+        color: black;
+        font-style:bold;
+        font-variant: upper-roman;
+        font-size: 20px;
+
+    }
+    h1{text-align: center;
+    background-color: lightsalmon;
+    color: black;
+    text-decoration:underline;
+    text-shadow: 2px 2px 5px white;
+    border: 2px black;
+    padding: 20px;}
+
+    h2{text-align:center-left;
+    color: black;
+    text-decoration: underline;
+    text-shadow: 2px 2px 5px white;
+    }
+
+
+    </style>
+    </head>
+    <body>
+        <h1>PROFILE</h1>
+        <h2>INTRODUCTION</h2>
+        <p>NAME : AKSHAYA BHALIKHA DS<br>
+        FROM : BANGALORE<br>
+        POST : BANASWADI<br>
+        PINCODE : 560043</p>
+        <hr></hr>
+        <h2>EDUCATION</h2>
+        <P>....SECONDARY(10TH)....<br>
+        FROM : CLARENCE HIGH SCHOOL BANGALORE<br>
+        PERCENTAGE : 79%<br>
+        YEAR OF COMPLETION : 2016<br><br><br>
+        ....SENIOR SECONDARY(PUC)....<br>
+        FROM : CMR NATIONAL PU COLLEGE<br>
+        HRBR LAYOUT, BANGALORE<br>
+        PERCENTAGE : 70%</P>
+
+        <hr></hr>
+        <p>..........ENGINEERING.........<br>
+        A.J INSTITUTE OF ENGINEERING AND<br>
+        TECHNOLOGY. KOTTARA CHOWKI, MANGALORE.<br>
+        COMPUTER SCIENCE<br>
+        3RD YEAR<br>
+        6TH SEMESTER<br>
+        CGPA : 8.31<br>
+        YEAR OF COMPLETION: 2022 </p>
+        <hr></hr>
+
+
+    </body>
+</html>
